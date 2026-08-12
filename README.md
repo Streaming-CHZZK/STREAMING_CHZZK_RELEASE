@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td align="center">방송 도구</td>
-      <td align="center"><img src="IMAGE/%EC%B9%98%EC%A7%80%EC%A7%81_%EC%95%84%EC%9D%B4%EC%BD%98.png" alt="치지직" width="24"><br>치지직 오버레이</td>
+      <td align="center">치지직 오버레이</td>
       <td>치지직 방송에서 캘린더, 투표, 룰렛 등 다양한 기능을 편리하게 사용할 수 있는 오버레이 도구입니다.</td>
       <td align="center"><a href="RELEASE/CHZZK%20Interactive%20Overlay/CHZZK%20Interactive%20Overlay%20v0.1.1.zip">v0.1.1</a></td>
     </tr>
