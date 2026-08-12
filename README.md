@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">치지직 인터랙티브 오버레이</td>
+      <td align="center">치지직 오버레이</td>
       <td>실시간 채팅과 연동하여 캘린더, 투표, 룰렛 등 다양한 방송 도구를 편리하게 사용할 수 있는 오버레이입니다.</td>
       <td align="center">v0.1.0</td>
     </tr>
