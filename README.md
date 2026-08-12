@@ -28,7 +28,7 @@
     <tr>
       <td align="center">치지직 오버레이</td>
       <td>캘린더, 투표, 룰렛 등 다양한 방송 도구를 편리하게 사용할 수 있는 도구입니다.</td>
-      <td align="center"><a href="RELEASE/CHZZK%20Interactive%20Overlay/CHZZK%20Interactive%20Overlay%20v0.1.0.zip">v0.1.0</a></td>
+      <td align="center"><a href="RELEASE/CHZZK%20Interactive%20Overlay/CHZZK%20Interactive%20Overlay%20v0.1.1.zip">v0.1.1</a></td>
     </tr>
     <tr>
       <td align="center"></td>
