@@ -29,9 +29,9 @@
       <td align="center"><a href="RELEASE/CHZZK%20Interactive%20Overlay/CHZZK%20Interactive%20Overlay%20v0.1.1.zip">v0.1.1</a></td>
     </tr>
     <tr>
-      <td align="center">가상 무대</td>
-      <td align="center">Virtual Live Stage</td>
-      <td>버추얼 공연과 라이브 방송을 위한 조명, LED 스크린, 카메라 연출을 갖춘 3D 무대 프로젝트입니다.</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td></td>
       <td align="center">준비 중</td>
     </tr>
   </tbody>
