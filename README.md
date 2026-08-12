@@ -18,9 +18,22 @@
 
 현재 공개를 준비하고 있습니다.
 
-| 프로젝트 | 설명 | 상태 |
-| --- | --- | --- |
-| 준비 중 | 첫 번째 치지직 프로젝트를 준비하고 있습니다. | 🚧 개발 중 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">프로젝트</th>
+      <th align="center">설명</th>
+      <th align="center">상태</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">준비 중</td>
+      <td>첫 번째 치지직 프로젝트를 준비하고 있습니다.</td>
+      <td align="center">🚧 개발 중</td>
+    </tr>
+  </tbody>
+</table>
 
 새 프로젝트가 추가되면 이 표에서 바로 확인할 수 있습니다.
 
